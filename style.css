@@ -51,3 +51,10 @@ body{
 .selected1 {
     opacity: 1;
 }
+
+@media (main-game: 300px){
+    .genius{
+        width: 150px;
+        height: 150px;
+    }
+}
